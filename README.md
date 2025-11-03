@@ -13,6 +13,7 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
    mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443)
 4. Lập trình web frontend+backend:
  SV chọn 1 trong các web sau:
+
  4.1 Web thương mại điện tử
  - Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
  - Có tính năng login, lưu phiên đăng nhập vào cookie và session
@@ -27,6 +28,7 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
  - Có tính năng dành cho admin: Thống kê xem có bao nhiêu đơn hàng, call để xác nhận và cập nhật thông tin đơn hàng. chuyển cho bộ phận đóng gói, gửi bưu điện, cập nhật mã COD, tình trạng giao hàng, huỷ hàng,...
  - Có tính năng dành cho admin: biểu đồ thống kê số lượng mặt hàng bán được trong từng ngày. (sử dụng grafana)
  - backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
+
  4.2 Web IOT: Giám sát dữ liệu IOT.
  - Tạo web dạng Single Page Application (SPA), chỉ gồm 1 file index.html, toàn bộ giao diện do javascript sinh động.
  - Có tính năng login, lưu phiên đăng nhập vào cookie và session
