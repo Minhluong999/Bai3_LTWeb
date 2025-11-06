@@ -57,12 +57,10 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
   giao diện nginx
 
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/193401d0-6156-46f8-92c3-0862ae4ebf2d" />
-
-  
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d665a802-8c5b-42d5-9da5-ad40deeffdc9" />
 
 
-<img width="1359" height="730" alt="image" src="https://github.com/user-attachments/assets/204143dd-9bfb-4c6d-bc25-5e2f8633a1ae" />
-# 5.
+<img width="1313" height="663" alt="image" src="https://github.com/user-attachments/assets/b898d97b-e79b-4482-b960-2240330f8fe3" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2460fad4-60e2-4c52-97a3-e715034709df" />
 
