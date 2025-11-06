@@ -50,6 +50,9 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/de2a7892-a338-4ee4-9cb5-f2e62e0166bc" />
 
+ giao diện influxdb
+
+<img width="1342" height="715" alt="image" src="https://github.com/user-attachments/assets/262f1efd-1453-418f-858f-b475ad3945f7" />
 
  giao diện phpmyadmin
 
