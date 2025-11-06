@@ -68,3 +68,5 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d7f81480-c63e-43d0-90eb-c04e0d073275" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2fe7f3ec-bbec-422f-9b01-ba9a031bc7a9" />
