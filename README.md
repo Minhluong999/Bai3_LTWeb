@@ -54,8 +54,11 @@ sau khi tạo user và pw thì được giao diện ubuntu như này
 
 <img width="1108" height="622" alt="image" src="https://github.com/user-attachments/assets/40738b93-8720-4243-aca2-210275855cb2" />
 
+
 chạy lệnh 
 nano docker-compose.yml
+=> sau đó code
+
 ```
 version: "3.8"
 
@@ -186,7 +189,8 @@ networks:
   backend:
     driver: bridge
 ```
-để tải  mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443)
+ctrl+O + enter để lưu  ctrl+x để trở về ubuntu
+sau khi load xong thì mariadb (3306), phpmyadmin (8080), nodered/node-red (1880), influxdb (8086), grafana/grafana (3000), nginx (80,443) sẽ được cài đặt
 
  giao diện login
 
