@@ -60,9 +60,6 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/193401d0-6156-46f8-92c3-0862ae4ebf2d" />
 
   
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0a819a4d-e9ab-4bb7-9af8-a517abd69fca" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cde1816f-41e2-4660-8b7c-0618c1a0c058" />
 
 
 <img width="1359" height="730" alt="image" src="https://github.com/user-attachments/assets/204143dd-9bfb-4c6d-bc25-5e2f8633a1ae" />
